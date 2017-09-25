@@ -12,7 +12,7 @@ __DIENSTAG__<br>
 __MITWOCH__<br>
 7:10 - 8:40 **Grundlagen der Informatik** U2.23 (Marion "Moe" Möller)<br>
 8:50 - 9:35 **Gemeinschaftskunde** U2.23 (Gerd "Schmiddi" Hackenschmidt)<br>
-9:55-12:30 **Betriwbswirtschaftliche Geschäftsprozesse in der Volkswirtschaft** U2.23 (Dr. Neudel) `//Natürlich hat wirtschaft den längsten namen; will wohl was kompensieren`<br>
+9:55-12:30 **Betriebswirtschaftliche Geschäftsprozesse in der Volkswirtschaft** U2.23 (Dr. Neudel) `//Natürlich hat Wirtschaft den längsten Namen; möchte wohl was kompensieren`<br>
 
 __DONNERSTAG__<br>
 7:55 - 9:35 **Englisch** U2.23 (Beate Stüber)<br>
