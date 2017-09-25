@@ -3,7 +3,7 @@ __MONTAG__<br>
 10:50 - 12:30 **Betriebssysteme** U2.23 (Lutz "Super-Gau" Gaugenrieder)<br>
 
 __DIENSTAG__<br>
-7:55 - 8:40 **Hardware** U2.23 (Andreas Schulz)<br>
+7:55 - 8:40 **Hardware** U2.23 (Andreas "Da war doch was..." Schulz)<br>
 8:50 - 9:35 **Gemeinschaftskunde** U2.23 (Gerd "Schmiddi" Hackenschmidt)<br>
 5:55 - 10:40 **Grundlagen der Informatik** U2.23 (Marion "Moe" Möller)<br>
 10:50 - 12:30 **Projektierung** U2.23 (Steffi "Bedrock" Begerock)<br>
@@ -16,12 +16,12 @@ __MITWOCH__<br>
 
 __DONNERSTAG__<br>
 7:55 - 9:35 **Englisch** U2.23 (Beate Stüber)<br>
-9:55 - 10:40 **Hardware** U2.23 (Andreas Schultz)<br>
+9:55 - 10:40 **Hardware** U2.23 (Andreas "Da war doch was..." Schultz)<br>
 10:10 - 12:30 **Deutsch** U2.23 (Britt "Otakyoushi" Drechsler)<br>
 13:00 - 14:40 **Sport** U-SH1 (Frank "Paprika" Papritz)<br>
 
 __FREITAG__<br>
-7:10 - 8:40 **Installation** U2.23 (Andreas Schulz)<br>
+7:10 - 8:40 **Installation** U2.23 (Andreas "Da war doch was..." Schulz)<br>
 8:50 - 9:35 **Arbeitsmethodik** U2.23 (Annette Gehrenz)<br>
 10:50 - 11:35 **Betriebswirtschaftliche usw.** U2.23 (Ina "Crash" Krech)<br>
 
