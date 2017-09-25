@@ -1,4 +1,4 @@
-__NTAG__<br>
+__MONTAG__<br>
 7:55 - 10:40 **Webseitengestaltung** U3.17 (André Köhler)<br>
 10:50 - 12:30 **Betriebssysteme** U2.23 (Lutz "Super-Gau" Gaugenrieder)<br>
 
