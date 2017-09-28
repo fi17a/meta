@@ -9,7 +9,7 @@ __DIENSTAG__<br>
 10:50 - 12:30 **Projektierung** U2.23 (Steffi "Bedrock" Begerock)<br>
 13:00 - 15:35 **Inselprogrammierung in Java** U3.17 (Andreas Herzig)<br>
 
-__MITWOCH__<br>
+__MITTWOCH__<br>
 7:10 - 8:40 **Grundlagen der Informatik** U2.23 (Marion "Moe" Möller)<br>
 8:50 - 9:35 **Gemeinschaftskunde** U2.23 (Gerd "Ich sag es mal so..." Hackenschmidt)<br>
 9:55-12:30 **Betriebswirtschaftliche Geschäftsprozesse in der Volkswirtschaft** U2.23 (Dr. Neudel) `//Natürlich hat Wirtschaft den längsten Namen; möchte wohl was kompensieren`<br>
@@ -25,6 +25,6 @@ __FREITAG__<br>
 8:50 - 9:35 **Arbeitsmethodik** U2.23 (Annette Gehrenz)<br>
 10:50 - 11:35 **Betriebswirtschaftliche usw.** U2.23 (Ina "Crash" Krech)<br>
 
-__SAMSTAG & SONTAG__<br>
+__SAMSTAG & SONNTAG__<br>
 Ganztags **Zocken** (am PC)<br>
 
