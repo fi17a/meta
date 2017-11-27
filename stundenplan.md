@@ -15,7 +15,7 @@ __MITTWOCH__<br>
 9:55-12:30 **Betriebswirtschaftliche Geschäftsprozesse in der Volkswirtschaft** U2.23 (Dr. Neudel) `//Natürlich hat Wirtschaft den längsten Namen; möchte wohl was kompensieren`<br>
 
 __DONNERSTAG__<br>
-7:55 - 9:35 **Englisch** U2.23 (Beate Stüber)<br>
+7:55 - 9:35 **Englisch** U2.23 (Beate "Seifenmafia" Stüber)<br>
 9:55 - 10:40 **Hardware** U2.23 (Andreas "Da war doch was..." Schultz)<br>
 10:10 - 12:30 **Deutsch** U2.23 (Britt "Otakyoushi" Drechsler)<br>
 13:00 - 14:40 **Sport** U-SH1 (Frank "Paprika" Papritz)<br>
