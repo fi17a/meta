@@ -1,6 +1,7 @@
 __MONTAG__<br>
 7:55 - 10:40 **Webseitengestaltung** U3.17 (André Köhler)<br>
 10:50 - 12:30 **Betriebssysteme** U2.23 (Lutz "Super-Gau" Gaugenrieder)<br>
+13:00 - 15:35 **Betriebswirtschaftliche usw.** U2.23 (Annette Gehrenz)<br>
 
 __DIENSTAG__<br>
 7:55 - 8:40 **Hardware** U2.23 (Andreas "Da war doch was..." Schulz)<br>
@@ -22,8 +23,7 @@ __DONNERSTAG__<br>
 
 __FREITAG__<br>
 7:10 - 8:40 **Installation** U2.23 (Andreas "Da war doch was..." Schulz)<br>
-8:50 - 9:35 **Arbeitsmethodik** U2.23 (Annette Gehrenz)<br>
-10:50 - 11:35 **Betriebswirtschaftliche usw.** U2.23 (Ina "Crash" Krech)<br>
+8:50 - 9:35 **Arbeitsmethodik** U2.23 (Ina "Crash" Krech)<br>
 
 __SAMSTAG & SONNTAG__<br>
 Ganztags **Zocken** (am PC)<br>
